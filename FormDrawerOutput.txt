@@ -1,0 +1,266 @@
+Fall 2022 - CS1083 - Section 001 - Project 2 - FormDrawer - written by Yash Verma
+
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+Please write the char that you would like to be used as the contour of the rectangle
+ [DrJava Input Box]
+Do you want the rectangle to be printed hollow?
+ [DrJava Input Box]
+Incorrect option, please try again
+Do you want the rectangle to be printed hollow?
+ [DrJava Input Box]
+What size do you want the Rectangle to be drawn?
+Please insert any number between 0 and 60
+ [DrJava Input Box]
+//////
+/    /
+/    /
+/    /
+/    /
+//////
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+Incorrect option, please try again
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+Incorrect option, please try again
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+Incorrect option, please try again
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+Please write the char that you would like to be used to fill the diamond
+ [DrJava Input Box]
+Please write the char that you would like to be used as edge of the diamond
+ [DrJava Input Box]
+What size do you want the diamond to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+What size do you want the diamond to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+What size do you want the diamond to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+What size do you want the diamond to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+????/\????
+???/==\???
+??/====\??
+?/======\?
+/========\
+\========/
+?\======/?
+??\====/??
+???\==/???
+????\/????
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+Incorrect option, please try again
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+Please write the char that you would like to be used as the contour of the rectangle
+ [DrJava Input Box]
+Do you want the rectangle to be printed hollow?
+ [DrJava Input Box]
+What size do you want the Rectangle to be drawn?
+Please insert any number between 0 and 60
+ [DrJava Input Box]
+=============================================
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=                                           =
+=============================================
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+What size do you want the triangle to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+What size do you want the triangle to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+What size do you want the triangle to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+What size do you want the triangle to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+   /\
+  /  \
+ /    \
+ ------
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+Please write the char that you would like to be used as the contour of the rectangle
+ [DrJava Input Box]
+Do you want the rectangle to be printed hollow?
+ [DrJava Input Box]
+What size do you want the Rectangle to be drawn?
+Please insert any number between 0 and 60
+ [DrJava Input Box]
+++++++++++++++++++++++++++
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
++                        +
+++++++++++++++++++++++++++
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+Incorrect option, please try again
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+What size do you want the triangle to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+      /\
+     /  \
+    /    \
+   /      \
+  /        \
+ /          \
+ ------------
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+What size do you want the triangle to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+What size do you want the triangle to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+What size do you want the triangle to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+What size do you want the triangle to be drawn?
+Please insert an even number between 0 and 60
+ [DrJava Input Box]
+             /\
+            /  \
+           /    \
+          /      \
+         /        \
+        /          \
+       /            \
+      /              \
+     /                \
+    /                  \
+   /                    \
+  /                      \
+ /                        \
+ --------------------------
+Please, select one of the following options
+0. Exit
+1. Draw a Diamond
+2. Draw a Rectangle
+3. Draw a Triangle
+ [DrJava Input Box]
+Thank you for using the formDrawer program, Good bye!
+> 
