@@ -1,0 +1,33 @@
+Welcome to DrJava.  Working directory is C:\Users\localuser\Documents\project1xmf194
+> run RowdyNCalculator
+UTSA - FALL 2022 - CS1083 - Section 001 - Project I - RowdyNCalculator - written by Yash Verma
+Please, input the number of calculations you want to perform:  [DrJava Input Box]
+Operation number 1
+Please, select your choice of datatype of operation (i-integer,d-double):  [DrJava Input Box]
+Please, input the first integer value:  [DrJava Input Box]
+Please, input the character of the operation (+, -, *, /, %):  [DrJava Input Box]
+Please, input the second integer value:  [DrJava Input Box]
+The result of subtracting 15 minus 25 is: -10
+Operation number 2
+Please, select your choice of datatype of operation (i-integer,d-double):  [DrJava Input Box]
+Please, input the first integer value:  [DrJava Input Box]
+Please, input the character of the operation (+, -, *, /, %):  [DrJava Input Box]
+Please, input the second integer value:  [DrJava Input Box]
+The result of modulo operation of 30 by 7 is: 2
+Operation number 3
+Please, select your choice of datatype of operation (i-integer,d-double):  [DrJava Input Box]
+Wrong datatype
+Operation number 4
+Please, select your choice of datatype of operation (i-integer,d-double):  [DrJava Input Box]
+Please, input the first double value:  [DrJava Input Box]
+Please, input the character of the operation (+, -, *, /, %):  [DrJava Input Box]
+Please, input the second double value:  [DrJava Input Box]
+The result of modulo operation of 8.5 by 1.2 with only 3 decimals is: 0.100
+Operation number 5
+Please, select your choice of datatype of operation (i-integer,d-double):  [DrJava Input Box]
+Please, input the first integer value:  [DrJava Input Box]
+Please, input the character of the operation (+, -, *, /, %):  [DrJava Input Box]
+Please, input the second integer value:  [DrJava Input Box]
+The result of dividing 85 by 6 is: 14
+Thank you for using the RowdyNCalculator!
+The sum of the result of all 5 operations is: 6.100> 
